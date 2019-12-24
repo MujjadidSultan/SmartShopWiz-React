@@ -1,0 +1,33 @@
+nav, img {
+    /*background: linear-gradient(45deg, rgb(42, 144, 228) 10%, rgb(34, 166, 196) 90%);*/
+    background: linear-gradient(90deg, rgb(31, 126, 204), rgb(109, 191, 209));
+}
+.card {
+    background: rgba(0, 188, 212, 0.3);
+    outline:solid;
+}
+
+figcaption {
+    color: rgb(31, 126, 204);
+}
+
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+table {
+    background: linear-gradient(90deg, rgb(31, 126, 204), rgb(109, 191, 209));
+    color: white;
+}
+
+
+
+
+
+
+
+  
+ 
+
+  

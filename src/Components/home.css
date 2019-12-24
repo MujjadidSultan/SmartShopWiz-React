@@ -1,0 +1,14 @@
+
+.img {
+    /*background-image: url("https://cdn.pixabay.com/photo/2019/03/13/11/07/supermarket-4052658_1280.jpg");*/
+    background-image: url("http://blog.bham.ac.uk/business-school/wp-content/uploads/sites/30/2017/11/supermarketcart.jpg");
+    height: 754px;    
+    position: 'absolute';      
+    opacity: 0.7;
+    text-align: center;
+    background-size: cover;
+    width: 1496px;
+}
+
+
+

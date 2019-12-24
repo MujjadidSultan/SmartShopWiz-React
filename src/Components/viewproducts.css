@@ -1,0 +1,25 @@
+th, td {
+    padding: 15px;
+  text-align: left;
+}
+
+tr:hover {
+    background-color: rgb(31, 126, 204);
+    color: white;
+}
+
+.table-content-class {
+  overflow-y: scroll;    
+  overflow-x: hidden;  
+  height: 600px;  
+
+}
+
+table, th, td {
+  border: 1px solid white;
+
+}
+
+td {
+  text-align: center;
+}
